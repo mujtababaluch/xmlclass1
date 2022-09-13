@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<store>
+    <food>
+        <fast-food>
+            <item>
+                <id>1</id>
+                <name>zinger burger</name>
+                <price>250</price>
+            </item>
+            <item>
+                <id>2</id>
+                <name>large pizza</name>
+                <price>1850</price>
+            </item>
+            <item>
+                <id>3</id>
+                <name>chiken mayo roll</name>
+                <price>250</price>
+            </item>
+            
+        </fast-food>
+    </food>
+
+    <drinks>
+        <softdrinks>
+            <pepsicola>
+                <item>
+                    <id>1</id>
+                    <name>mirinda</name>
+                    <price>70</price>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>7up</name>
+                    <price>40</price>
+                </item>
+            </pepsicola>
+            <cocacola>
+                <item>
+                    <id>1</id>
+                    <name>coke diet</name>
+                    <price>100</price>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>fanta</name>
+                    <price>150</price>
+                </item>
+            </cocacola>
+        </softdrinks>
+    </drinks>
+    
+</store>
